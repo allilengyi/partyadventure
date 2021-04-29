@@ -62,7 +62,7 @@
                 {
 		 "name":"playAudio",
 		 "type":"string",
-		 "value":"https:\/\/stream.anarchie.jetzt\/radio\/8010\/radio.mp3"
+		 "value":"https:\/\/github.com\/allilengyi\/partyadventure\/raw\/main\/maps\/SPACE\/start.mp3"
 		}],
          "type":"tilelayer",
          "visible":true,

@@ -50,7 +50,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/stream.anarchie.jetzt\/radio\/8000\/radio.mp3"
+                 "value":"https:\/\/github.com\/allilengyi\/partyadventure\/raw\/main\/maps\/maschinenraum\/freiheit.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
